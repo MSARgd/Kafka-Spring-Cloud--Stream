@@ -17,6 +17,15 @@
 - A Real Time Stream Processing Data Analytics Service with Kaflka Streams
 - A Web application that displays Stream Data Analytics results in real time
 ## Screenshots
+![Image](screens/01.png)
+![Image](screens/02.png)
+![Image](screens/03.png)
+![Image](screens/04.png)
+
+![Image](screens/11.png)
+![Image](screens/12.png)
+![Image](screens/13.png)
+![Image](screens/14.png)
 
 ![Image](screens/1.png)
 ![Image](screens/2.png)
