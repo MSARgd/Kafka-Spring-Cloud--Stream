@@ -1,7 +1,7 @@
 # Kafka-Spring-cloud-Stream
 
 ## Using KAFKA and Stpring Cloud Streams:
-1) "Initializing Kafka Ecosystem: Zookeeper, Kafka Server, and Testing
+1) Initializing Kafka Ecosystem: Zookeeper, Kafka Server, and Testing
 - Start Zookeeper
 - Start Kafka-server
 - Testing with Kafka-console-producer and kafka-console-consumer
